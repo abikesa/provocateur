@@ -110,3 +110,4 @@ pdf.image(QR_IMG_PATH, x=pdf.get_x() + 5, y=pdf.get_y(), w=30)
 # Save the PDF
 pdf.output(OUTPUT_PDF)
 OUTPUT_PDF
+# flick 20250409213602-uIza
