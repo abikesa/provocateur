@@ -1,3 +1,4 @@
 touch terminal.lnk
 echo "[Terminal Shortcut]" > terminal.lnk
 echo "Exec=sh init.sh" >> terminal.lnk
+# flick 20250409213610-vNZh
