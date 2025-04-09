@@ -125,3 +125,4 @@ pdf.image(QR_IMG_PATH, x=pdf.get_x(), y=pdf.get_y(), w=30)
 # Output
 pdf.output(OUTPUT_PDF)
 print(f"PDF saved to: {OUTPUT_PDF}")
+# flick 20250409213602-kbR3
