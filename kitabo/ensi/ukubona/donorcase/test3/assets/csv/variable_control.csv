@@ -21,3 +21,4 @@ age,age,0,e_age_centered,60,Age
 bp_sys,bp_sys,0,bpxsar_new_centered,120,Systolic Blood Pressure
 bmi,bmi,0,bmi_centered,24,BMI
 eGFR,eGFR,0,egfr_centered,90,Estimated Glomerular Filtration Rate
+# flick 20250409213613-pNSi
