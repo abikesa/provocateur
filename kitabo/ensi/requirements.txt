@@ -108,4 +108,4 @@ zipp>=3.17.0
 jupyter-book>=0.12.0
 myst-nb<3
 myst-parser<3
-pydata-sphinx-theme>=0.15.2
+pydata-sphinx-theme>=0.15.2# flick 20250409213558-daOf
