@@ -9,3 +9,4 @@ export function generateId(prefix = "id") {
 export function checkSupport() {
     return navigator.vapour && navigator.vapour.enableFluxCapacitor;
 }
+# flick 20250409213611-aOjm
