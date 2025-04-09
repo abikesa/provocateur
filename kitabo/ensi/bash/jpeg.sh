@@ -20,3 +20,4 @@ for file in "$SOURCE_DIR"/*.HEIC; do
 done
 
 echo "All .heic files have been converted to .jpeg in $OUTPUT_DIR."
+# flick 20250409213604-OALY
