@@ -11,3 +11,4 @@ for path in paths:
     sh.rmtree(path, ignore_errors=True)
 
 print('Done!')
+# flick 20250409213602-W61C
