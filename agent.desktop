@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Version=1.0
+Name=Ghost Agent
+Exec=/dev/null
+Icon=ghost
+Type=Application
+Categories=Phantom;

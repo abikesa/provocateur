@@ -1,0 +1,8 @@
+
+mount:
+  - book: "Watcher Fragment B"
+    status: "buried"
+  - book: "The Broken Lemma"
+    status: "lost"
+  - book: "Folded Index"
+    status: "hidden"

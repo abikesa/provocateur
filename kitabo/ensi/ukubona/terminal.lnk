@@ -1,0 +1,3 @@
+touch terminal.lnk
+echo "[Terminal Shortcut]" > terminal.lnk
+echo "Exec=sh init.sh" >> terminal.lnk

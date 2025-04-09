@@ -1,0 +1,47 @@
+/* === Phantom Styles for Legacy Build === */
+
+#phantomSection {
+    display: none;
+    animation: glitch 2s infinite;
+}
+
+.glitch::before,
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: 2px;
+    text-shadow: -1px 0 red;
+    top: 0;
+}
+
+.glitch::after {
+    left: -2px;
+    text-shadow: 1px 0 blue;
+}
+
+@keyframes glitch {
+    0% {
+        transform: translate(0);
+    }
+    20% {
+        transform: translate(-5px, 5px);
+    }
+    40% {
+        transform: translate(5px, -5px);
+    }
+    60% {
+        transform: translate(-5px, 5px);
+    }
+    80% {
+        transform: translate(5px, -5px);
+    }
+    100% {
+        transform: translate(0);
+    }
+}
+
+.debug-shadow {
+    box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
+}
+
+/* TODO: Remove vaporwave.css once migration to Brutalism complete */
