@@ -4,4 +4,4 @@ Our symbols compress epistemic states:
 - 🌊 = chaos
 - 🛠️ = repair
 - ✂️ = discernment
-- 🏝️ = legacy
+- 🏝️ = legacy# flick 20250409213605-q84t
