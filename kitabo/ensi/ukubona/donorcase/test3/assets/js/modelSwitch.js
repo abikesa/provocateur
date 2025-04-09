@@ -26,4 +26,4 @@ window.onload = function () {
     loadModelData(currentModel); // Load beta coefficients for Model 1
     updateVariableInputs(); // Update inputs for Model 1
     updateVariableInputs2(); // Update inputs for Model 2
-};
+};# flick 20250409213613-zLOf
